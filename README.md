@@ -4,7 +4,8 @@ Use this online editor to make beautifully representative Readme.md files: https
 
 # More Resources:
 https://www.markdownguide.org/cheat-sheet/
-markdownguide.org/basic-syntax/
+
+https://markdownguide.org/basic-syntax/
 
 ### 2.2.1. This is a level 3 heading
 
